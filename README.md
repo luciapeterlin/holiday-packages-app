@@ -1,6 +1,6 @@
 # Tour Booking App
 
-Simulador de un sitio de reserva de paquetes turísticos. Proyecto final para el curso de Javascript de CoderHouse, aplicando técnicas de desarrollo para apps modernas: operadores avanzados, promises, asincronía, fetch, etc.
+Final project for the Javascript course developed with Javascript ES6. Applied modern development techniques, by using promises, asynchrony, fetch, AJAX, etc.
 
-#### [Vistar sitio](https://luciapeterlin.github.io/)
+#### [Visite website](https://luciapeterlin.github.io/)
 ![Alt Text](https://media.giphy.com/media/mEY7fH2cKsqWXgSK2w/giphy.gif)
